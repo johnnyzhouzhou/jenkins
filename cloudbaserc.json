@@ -9,6 +9,7 @@
         "inputs": {
           "cpu": 1,
           "mem": 2,
+          "servicePath": "/jenkins",
           "serviceName": "jenkins",
           "localPath": "./",
           "uploadType": "package",
