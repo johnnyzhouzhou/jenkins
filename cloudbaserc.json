@@ -9,6 +9,7 @@
         "inputs": {
           "cpu": 1,
           "mem": 2,
+          "mode": "high-availability",
           "servicePath": "/jenkins",
           "serviceName": "jenkins",
           "localPath": "./",
